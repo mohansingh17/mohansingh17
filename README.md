@@ -3,13 +3,13 @@
 
 <p align="left">
   <a href="https://github.com/mohansingh17">
-    <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8780399&textfill=black&fill=linear-gradient(90deg,%238EC5FC,%23E0C3FC)" alt="Stack Overflow Profile" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,redux,tailwind,git" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/mohansingh17">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,redux,tailwind,git" />
+    <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8780399&textfill=black&fill=linear-gradient(90deg,%238EC5FC,%23E0C3FC)" alt="Stack Overflow Profile" />
   </a>
 </p>
 
@@ -58,17 +58,6 @@
   <a href="#"><img src="https://img.shields.io/badge/SSR-FF4088?style=for-the-badge&logo=next.js&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/WebSockets-00BFFF?style=for-the-badge&logo=socket.io&logoColor=white" /></a>
 </p>
-
-
----
-
-## 🧩 Featured Projects  
-
-- 🧵 **Lovoj Website** – Bespoke clothing marketplace (React.js, Next.js, TypeScript, Tailwind, Styled-components, JWT)  
-- 🧭 **Super Admin Dashboard** – Centralized dashboard to manage website content, admin users, stylists, and operational modules with role-based access. (React.js, Next.js, TypeScript, Redux, Tailwind, API integration)  
-- 🎭 **Prank Caller** – Prank call app with credits, history, and user settings. (React.js, Next.js, Redux, Tailwind, JWT) 
-- 💼 **Venturecraft** – Business presentation platform, improved investor engagement. (Next.js, React, TypeScript, Tailwind, Figma)  
-- 💍 **Roland** – Fashion/jewelry website with multilingual support (React.js, Styled-components, APIs)
 
 ---
 
