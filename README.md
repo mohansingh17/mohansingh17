@@ -17,7 +17,7 @@
 
 ## 🧠 About Me  
 
-✨ Frontend Developer with **3+ years of experience** in building modern, responsive, and high-performance web applications.  
+✨ Frontend Developer with **4+ years of experience** in building modern, responsive, and high-performance web applications.  
 
 - 🚀 Skilled in **React.js**, **Next.js**, and **TypeScript** for developing dynamic and scalable interfaces.  
 - 🧩 Experienced with **Redux Toolkit** and state management for predictable, maintainable applications.  
